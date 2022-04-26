@@ -1,4 +1,4 @@
-## Лабораторное задание №8
+## Лабораторное задание №9
 
 Для выполнения задания необходимо:
 
@@ -16,6 +16,7 @@
 
 Для взаимодействия с репозиторием понадобится учетная запись
 
->login: msun-itc
-
->pass: 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
+```
+login: msun-itc
+pass: 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
+```
