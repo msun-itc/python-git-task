@@ -18,5 +18,5 @@
 
 ```
 login: msun-itc
-pass: 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
+pass: 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
 ```
